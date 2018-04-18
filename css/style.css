@@ -1,0 +1,27 @@
+body{
+	
+}
+
+.bkg-header{
+	background-image: url('../images/bg.jpeg');
+	background-size: cover;
+	height:  400px;
+	max-height: 350px;
+}
+
+.titulo-header{
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.jumbotron.bkg-header {
+    margin-top: 30px;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.parrafo-header{
+	color: #FFFFFF;
+}
