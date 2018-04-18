@@ -15,7 +15,7 @@ body{
 }
 
 .jumbotron.bkg-header {
-    margin-top: 30px;
+    margin-top: 0px;
 }
 
 .row {
@@ -24,4 +24,31 @@ body{
 }
 .parrafo-header{
 	color: #FFFFFF;
+	text-align: center;
+	font-size: 13px !important;
+	margin-top: 20px; 
+}
+.titular-container{
+	text-align: center;
+}
+.parrafo-container{
+	text-align: center;
+}
+
+.navbar{
+	background-color: transparent;
+	background: transparent;
+	border-color: transparent;
+}
+.navbar li{
+	color: #000;
+}
+.parrafo-footer{
+	font-size: 14px !important;
+}
+.logo{
+	width: 140px;
+}
+.jumbotron{
+	padding-top: 0px;
 }
