@@ -51,4 +51,13 @@ body{
 }
 .jumbotron{
 	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+.jumbo-footer{
+	background-color: #1C1C1C;
+}
+.titular-footer{
+	color: #FFFFFF;
+	padding: 20px 0px;
 }
