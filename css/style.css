@@ -22,10 +22,10 @@ body{
     margin-right: 0px;
     margin-left: 0px;
 }
-.parrafo-header{
+p.parrafo-header{
+	font-size: 13px;
 	color: #FFFFFF;
 	text-align: center;
-	font-size: 13px !important;
 	margin-top: 20px; 
 }
 .titular-container{
@@ -43,8 +43,8 @@ body{
 .navbar li{
 	color: #000;
 }
-.parrafo-footer{
-	font-size: 14px !important;
+p.parrafo-footer{
+	font-size: 14px;
 }
 .logo{
 	width: 140px;
@@ -69,4 +69,13 @@ body{
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: #ffffff;
+}
+input {
+    padding: 4px;
+    border-radius: 2px;
+    border: 1px solid #b9b6b6;
 }
