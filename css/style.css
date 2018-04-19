@@ -6,7 +6,7 @@ body{
 	background-image: url('../images/bg.jpeg');
 	background-size: cover;
 	height:  400px;
-	max-height: 350px;
+	max-height: 400px;
 }
 
 .titulo-header{
@@ -60,4 +60,13 @@ body{
 .titular-footer{
 	color: #FFFFFF;
 	padding: 20px 0px;
+}
+.navbar-nav {
+    margin: 7.5px -15px;
+    float: right;
+    display: inline-flex;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
 }
